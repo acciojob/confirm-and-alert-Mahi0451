@@ -6,5 +6,5 @@ function myFunction() {
   } else {
     alert ("You clicked Cancel. Exiting...");
   }
-  document.getElementById("demo").innerHTML = text;
+  
 }
